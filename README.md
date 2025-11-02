@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+- The sopranos
+- Breaking bad
+- Game of thrones
